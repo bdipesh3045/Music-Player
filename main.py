@@ -8,6 +8,7 @@ import os
 
 # === Playlist ===
 
+# Hello new changes added
 
 songs_folder = os.path.join(os.getcwd(), "songs")
 song_path = []
